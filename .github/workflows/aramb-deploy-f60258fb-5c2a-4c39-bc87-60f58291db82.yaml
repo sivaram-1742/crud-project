@@ -33,5 +33,5 @@ jobs:
           DOCKER_USERNAME: ${{ github.actor }}
           DOCKER_PASSWORD: ${{ secrets.GITHUB_TOKEN }}
           ARAMB_SERVICE_ID: f60258fb-5c2a-4c39-bc87-60f58291db82
-          ARAMB_API_URL: https://api.clode.space/jumbo
+          ARAMB_API_URL: https://nonscientifically-inapprehensive-barney.ngrok-free.dev
           ARAMB_API_TOKEN: ${{ secrets.ARAMB_API_TOKEN }}
